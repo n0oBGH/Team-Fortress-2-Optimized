@@ -1,2 +1,3 @@
-# Team-Fortress-2-Optimized
-TF2 stuff that will give you few more frames
+# Team Fortress 2: Optimized
+
+Files which will optimize your overall Team Fortress 2 experience.
